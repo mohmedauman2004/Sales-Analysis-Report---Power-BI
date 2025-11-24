@@ -1,6 +1,6 @@
-# Sales Analysis Dashboard - Power BI
+# Sales Analysis Report - Power BI
 
-An interactive Power BI dashboard providing comprehensive insights into sales performance, customer behavior, and operational efficiency.
+A multi-page Power BI Sales Analysis Report, including data modeling and a Star Schema design to optimize performance and insights. Provides comprehensive views of sales performance, customer behavior, and operational efficiency.
 
 ## 📊 Dashboard Overview
 
